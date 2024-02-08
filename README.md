@@ -1,38 +1,36 @@
 # VirtualInternship at Bharat with Codeway Project
 
 ## Project Overview
-Welcome to the Virtual Internship at Bharat with Codeway! In this project, you have successfully completed tasks 2, 3, and 4 out of a total of 5 tasks. Below is a summary of your contributions.
+Welcome to the Virtual Internship at Bharat with Codeway! In this project, I have successfully completed tasks 2, 3, and 4 out of a total of 5 tasks. Below is a summary of mine contributions.
 
 ### Task 2: Fraudulent Credit Card Transaction Detection
-For this task, you built a model to detect fraudulent credit card transactions using a dataset containing information about credit card transactions. The focus was on experimenting with algorithms such as Logistic Regression, Decision Trees, or Random Forests to classify transactions as either fraudulent or legitimate.
+For this task, I built a model to detect fraudulent credit card transactions using a dataset containing information about credit card transactions. The focus was on experimenting with algorithms such as Logistic Regression, Decision Trees, or Random Forests to classify transactions as either fraudulent or legitimate.
 
 ### Task 3: Customer Churn Prediction
-In Task 3, you developed a model to predict customer churn for a subscription-based service or business. Utilizing historical customer data, including features like usage behavior and customer demographics, you explored algorithms like Logistic Regression, Random Forests, or Gradient Boosting to forecast customer churn.
+In Task 3, I developed a model to predict customer churn for a subscription-based service or business. Utilizing historical customer data, including features like usage behavior and customer demographics, you explored algorithms like Logistic Regression, Random Forests, or Gradient Boosting to forecast customer churn.
 
 ### Task 4: SMS Spam Detection
-For Task 4, you successfully built an AI model capable of classifying SMS messages as spam or legitimate. Techniques such as TF-IDF or word embeddings were employed, along with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.
+For Task 4, I successfully built an AI model capable of classifying SMS messages as spam or legitimate. Techniques such as TF-IDF or word embeddings were employed, along with classifiers like Multi-nomial Naive Bayes to classify spam messages
 
 ## Repository Structure
-Your project repository on GitHub follows a structured format for easy navigation. Here's a breakdown of the repository structure:
+My project repository on GitHub follows a structured format for easy navigation. Here's a breakdown of the repository structure:
 
 ```
 |-- VirtualInternship-Bharat-Codeway
+  |-- Master branch
     |-- Task2_Fraudulent_Transaction_Detection
         |-- code
         |-- dataset
-        |-- results
         |-- README.md
     |-- Task3_Customer_Churn_Prediction
         |-- code
         |-- dataset
-        |-- results
         |-- README.md
     |-- Task4_SMS_Spam_Detection
         |-- code
         |-- dataset
-        |-- results
         |-- README.md
-    |-- README.md
+    |--README.md
 ```
 
 ## Task-Specific READMEs
